@@ -4,7 +4,7 @@ namespace PHP\Modelo\Dao;
 class Conexao{
     function conectar(){
         try{
-        $conn = mysqli_connect('localhost', 'root', '','formulario-gustavo');
+        $conn = mysqli_connect('localhost', 'root', '','neguinhocorts');
         if($conn){
             echo "";
             return $conn;

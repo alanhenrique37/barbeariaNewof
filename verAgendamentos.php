@@ -135,7 +135,7 @@
 </nav>
 
 <div class="container">
-    <h2 class="titulo" style="margin-top:70px">AGENDAMENTOS</h2>
+    <h2 class="titulo" style="margin-top:80px">AGENDAMENTOS</h2>
 
     <table id="myTable">
         <thead>
